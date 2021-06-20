@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rotary)(type Legacy)(uri ${KIPRJMOD}/rotary.lib)(options "")(descr ""))
+  (lib (name blackpill)(type Legacy)(uri ${KIPRJMOD}/blackpill/blackpill.lib)(options "")(descr ""))
+)

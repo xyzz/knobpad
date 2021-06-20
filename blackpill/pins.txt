@@ -1,0 +1,37 @@
+Safe pins
+---------
+B12
+B13
+B14
+B15
+A8
+A10
+A15
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+B0
+B1
+B10
+
+Unsafe pins
+-----------
+A0 - KEY push button
+B2 - BOOT1
+C13 - led
+C14 - rtc crystal
+C15 - rtc crystal
+A11 - usb D-
+A12 - usb D+
+A9 - https://github.com/qmk/qmk_firmware/issues/7855 - see patch in root README.md

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BlackPill
+D STM32F4-based "Black Pill" micro-controller development board
+K stm32 stm32f4 stm32f401 stm32f411 blackpill
+$ENDCMP
+#
+#End Doc Library
