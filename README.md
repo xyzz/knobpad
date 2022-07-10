@@ -2,7 +2,7 @@ A 6x6 encoder macropad using 21 pins.
 
 # qmk source tree
 
-https://github.com/xyzz/vial-qmk/tree/knobpad
+https://github.com/xyzz/vial-qmk-1/tree/knobpad
 
 # chibios patch for pin A9 on stm32f4xxx
 
